@@ -1,0 +1,14 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+.#*
+*~
+.DS_Store
+examples/data
+deps/deps.jl
+deps/usr/
+deps/build/
+deps/lib/
+docs/build/
+docs/site/
+flycheck_*
